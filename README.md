@@ -50,7 +50,24 @@ This repository contains materials for a 3-week course designed to introduce hig
     - [RIntro in GitHub](https://github.com/gdlc/STAT_COMP/blob/master/RIntro.md)
     - [R for Data Science](https://r4ds.had.co.nz/introduction.html)
     - Too many youtube videos to be listed here!
+  
+  - **RMarkdown**:
+    -  [Template](https://github.com/gdlc/STAT_COMP/blob/master/RMarkdown_for_beginners.Rmd)
     
   - **Introduction to GWAS**:
     - Will add a couple of references here...
     
+  
+ ## Tentative Schedule
+ 
+ | Date	|  Time|	Activity	| 
+|-------|---------------|---------|
+| M., July 19, 2021	|	5:00pm-6:00pm	| Lecture 1 |	
+| Wed., July 21, 2021	|	5:00pm-6:00pm	| Lecture 2  + Q&A|
+| Fr., July 23, 2021	|	5:00pm-6:00pm	| Presentation of Reports |
+| M., July 26, 2021	|	5:00pm-6:00pm	| Lecture 2 |	
+| Wed., July 28, 2021	|	5:00pm-6:00pm	| Lecture 3  + Q&A|
+| Fr., July 30, 2021	|	5:00pm-6:00pm	| Presentation of Reports |
+| M., August 2, 2021	|	5:00pm-6:00pm	| Lecture 4 |	
+| Wed., August 3, 2021	|	5:00pm-6:00pm	| Lecture 5  + Q&A|
+| Fr., August 5, 2021	|	5:00pm-6:00pm	| Presentation of Reports |
