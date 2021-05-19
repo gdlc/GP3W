@@ -71,3 +71,4 @@ This repository contains materials for a 3-week course designed to introduce hig
 | M., August 2, 2021	|	5:00pm-6:00pm	| Lecture 4 |	 |
 | Wed., August 3, 2021	|	5:00pm-6:00pm	| Lecture 5  + Q&A| |
 | Fr., August 5, 2021	|	5:00pm-6:00pm	| Presentation of Reports | |
+
