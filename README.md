@@ -1,6 +1,6 @@
 # Genomic Analysis with R in 3 weeks
 
-This repository contains materials for a 3-week course designed to introduce highschool students (9th grade or greater) to data analyisis using R and to the analysis of genetic data using R.
+This repository contains materials for a 3-week course designed to introduce highschool students (9th grade or higher) to data analysis using R with a focus on studies involving genetic data.
 
 ## General Information
 
