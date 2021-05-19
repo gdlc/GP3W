@@ -7,12 +7,12 @@ This repository contains materials for a 3-week course designed to introduce hig
    - **Instructor**: Gustavo de los Campos ( gdeloscampos@gmail.com )
    - **Modality**: Synchronous distant learning (via discord)
    - **Required background**: High school student, 9th grade or higher.
-   - **Expected time commitment**: 10-15 hr/week. We will meet as a group on Monday (lecture and introduction of the week's task), have office hours on Wednesday, and meet as a group on Friday for presentation of results and discussion.
-   - **Other requisites**: Students are required to have access to a computer, have personal Discord (https://discord.com/) and  Github (https://github.com/) accounts.
+   - **Expected time commitment**: 10-15 hr/week. We will meet as a group on Monday for a lecture and an introduction of the week's task, have a short lecture and office hours on Wednesday, and meet as a group on Friday to present and discuss results.
+   - **Other requisites**: Students are required to have access to a computer, have a personal [Discord](https://discord.com/) and  [Github](https://github.com/) accounts.
    - **Disclaimer**: 
       - The course is offered by Gustavo de los Campos. 
       - This is not a Michigan State University course. 
-      - Upon completion, you will receive a certificate singed by the instructor.
+      - Upon completion, you will receive a certificate signed by the instructor.
 
 ## Tentative program
 
