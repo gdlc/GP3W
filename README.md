@@ -1,12 +1,12 @@
 # Genomic Analysis with R in 3 weeks
 
-This repository contains materials for a 3-week course designed to introduce highschool students (9th grade or higher) to data analysis using R with a focus on studies involving genetic data.
+This repository contains materials for a 3-week course designed to introduce high school students (9th grade or higher) to data analysis using R with a focus on studies involving genetic data.
 
 ## General Information
 
    - **Instructor**: Gustavo de los Campos ( gdeloscampos@gmail.com )
    - **Modality**: Synchronous distant learning (via discord)
-   - **Required background**: High school student, 9th grade or greater.
+   - **Required background**: High school student, 9th grade or higher.
    - **Expected time commitment**: 10-15 hr/week. We will meet as a group on Monday (lecture and introduction of the week's task), have office hours on Wednesday, and meet as a group on Friday for presentation of results and discussion.
    - **Other requisites**: Students are required to have access to a computer, have personal Discord (https://discord.com/) and  Github (https://github.com/) accounts.
    - **Disclaimer**: 
