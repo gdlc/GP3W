@@ -60,14 +60,14 @@ This repository contains materials for a 3-week course designed to introduce hig
   
  ## Tentative Schedule
  
- | Date	|  Time|	Activity	| 
-|-------|---------------|---------|
-| M., July 19, 2021	|	5:00pm-6:00pm	| Lecture 1 |	
-| Wed., July 21, 2021	|	5:00pm-6:00pm	| Lecture 2  + Q&A|
-| Fr., July 23, 2021	|	5:00pm-6:00pm	| Presentation of Reports |
-| M., July 26, 2021	|	5:00pm-6:00pm	| Lecture 2 |	
-| Wed., July 28, 2021	|	5:00pm-6:00pm	| Lecture 3  + Q&A|
-| Fr., July 30, 2021	|	5:00pm-6:00pm	| Presentation of Reports |
-| M., August 2, 2021	|	5:00pm-6:00pm	| Lecture 4 |	
-| Wed., August 3, 2021	|	5:00pm-6:00pm	| Lecture 5  + Q&A|
-| Fr., August 5, 2021	|	5:00pm-6:00pm	| Presentation of Reports |
+ | Date	|  Time|	Activity	| Matierials
+|-------|---------------|---------|------|
+| M., July 19, 2021	|	5:00pm-6:00pm	| Lecture 1 |	 |
+| Wed., July 21, 2021	|	5:00pm-6:00pm	| Lecture 2  + Q&A| |
+| Fr., July 23, 2021	|	5:00pm-6:00pm	| Presentation of Reports | |
+| M., July 26, 2021	|	5:00pm-6:00pm	| Lecture 2 |	 |
+| Wed., July 28, 2021	|	5:00pm-6:00pm	| Lecture 3  + Q&A| |
+| Fr., July 30, 2021	|	5:00pm-6:00pm	| Presentation of Reports | |
+| M., August 2, 2021	|	5:00pm-6:00pm	| Lecture 4 |	 |
+| Wed., August 3, 2021	|	5:00pm-6:00pm	| Lecture 5  + Q&A| |
+| Fr., August 5, 2021	|	5:00pm-6:00pm	| Presentation of Reports | |
