@@ -17,31 +17,34 @@ This repository contains materials for a 3-week course designed to introduce hig
 ## Tentative program
 
   - **Week 1: Introduction to Github, R, and RStudio**
-      - Introduction to R: types, conditional statements, loops, plots, arrays, importing/exporting data and other objects
-      - Introduction to Github
-      - Reporting using RMarkdown and RStudio
+      - Introduction to R: Types, conditional statements, loops, plots, arrays, and importing/exporting data.
+      - Introduction to Github.
+      - Reporting using RMarkdown and RStudio.
+     
       - Task 1:
-        - Reading a genomic data set in R
+        - Reading a genomic data set in R.
         - Producing summary statistics for phenotypes and genotypes.
-        - Report results
+        - Report results.
         
   - **Week 2: Descriptive statistics and association analysis**
-      - Variance, covariance and correlation
-      - Simple linear regression
-      - Introduction to Genome Wide Association Analysis (GWAS)
+      - Variance, covariance and correlation.
+      - Simple linear regression.
+      - Introduction to Genome Wide Association (GWA) Analysis.
+      
       - Task 2:
-        - Produce a Manhattan plot
-        - Identify SNPs significantly associated with a trait
-        - Report results
+        - Produce a Manhattan plot.
+        - Identify SNPs significantly associated with a trait.
+        - Report results.
       
   - **Week 3: Beyond single-marker-phenotype analysis**:
-      - Multiple-linear regression (model, estimation, and goodness of fit)
-      - Training versus testing accuracy
-      - The curse of dimensionality
+      - Multiple-linear regression (models, estimation, and goodness of fit).
+      - Training versus testing accuracy.
+      - The curse of dimensionality.
+      
       - Task 3:
-        - Fit a multiple regression model to a training set (we will consider three approaches)
-        - Evaluate prediction accuracy in the trainin and testing set.
-        - Report results
+        - Fit a multiple regression model to a training set (we will consider three approaches).
+        - Evaluate prediction accuracy in the training and testing set.
+        - Report results.
 
 ## Reading materials
   
@@ -65,10 +68,10 @@ This repository contains materials for a 3-week course designed to introduce hig
 | M., July 19, 2021	|	5:00pm-6:00pm	| Lecture 1 |	 |
 | Wed., July 21, 2021	|	5:00pm-6:00pm	| Lecture 2  + Q&A| |
 | Fr., July 23, 2021	|	5:00pm-6:00pm	| Presentation of Reports | |
-| M., July 26, 2021	|	5:00pm-6:00pm	| Lecture 2 |	 |
-| Wed., July 28, 2021	|	5:00pm-6:00pm	| Lecture 3  + Q&A| |
+| M., July 26, 2021	|	5:00pm-6:00pm	| Lecture 3 |	 |
+| Wed., July 28, 2021	|	5:00pm-6:00pm	| Lecture 4  + Q&A| |
 | Fr., July 30, 2021	|	5:00pm-6:00pm	| Presentation of Reports | |
-| M., August 2, 2021	|	5:00pm-6:00pm	| Lecture 4 |	 |
-| Wed., August 3, 2021	|	5:00pm-6:00pm	| Lecture 5  + Q&A| |
+| M., August 2, 2021	|	5:00pm-6:00pm	| Lecture 5 |	 |
+| Wed., August 3, 2021	|	5:00pm-6:00pm	| Lecture 6  + Q&A| |
 | Fr., August 5, 2021	|	5:00pm-6:00pm	| Presentation of Reports | |
 
