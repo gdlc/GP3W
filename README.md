@@ -65,13 +65,13 @@ This repository contains materials for a 3-week course designed to introduce hig
  
  | Date	|  Time|	Activity	| Matierials
 |-------|---------------|---------|------|
-| M., July 19, 2021	|	5:00pm-6:00pm	| Lecture 1 |	 |
-| Wed., July 21, 2021	|	5:00pm-6:00pm	| Lecture 2  + Q&A| |
+| M., July 19, 2021	|	5:00pm-6:00pm	| Lecture  |	 |
+| Wed., July 21, 2021	|	5:00pm-6:00pm	| Q&A + Short lecture| |
 | Fr., July 23, 2021	|	5:00pm-6:00pm	| Presentation of Reports | |
-| M., July 26, 2021	|	5:00pm-6:00pm	| Lecture 3 |	 |
-| Wed., July 28, 2021	|	5:00pm-6:00pm	| Lecture 4  + Q&A| |
+| M., July 26, 2021	|	5:00pm-6:00pm	| Lecture  |	 |
+| Wed., July 28, 2021	|	5:00pm-6:00pm	| Q&A + Short lecture| |
 | Fr., July 30, 2021	|	5:00pm-6:00pm	| Presentation of Reports | |
-| M., August 2, 2021	|	5:00pm-6:00pm	| Lecture 5 |	 |
-| Wed., August 3, 2021	|	5:00pm-6:00pm	| Lecture 6  + Q&A| |
+| M., August 2, 2021	|	5:00pm-6:00pm	| Lecture |	 |
+| Wed., August 3, 2021	|	5:00pm-6:00pm	|  Q&A + Short lecture | |
 | Fr., August 5, 2021	|	5:00pm-6:00pm	| Presentation of Reports | |
 
