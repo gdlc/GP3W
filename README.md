@@ -60,7 +60,9 @@ This repository contains materials for a 3-week course designed to introduce hig
   - **Introduction to GWAS**:
     - Will add a couple of references here...
     
-  
+ ##  Data
+ 
+ 
  ## Tentative Schedule
  
  | Date	|  Time|	Activity	| Matierials
