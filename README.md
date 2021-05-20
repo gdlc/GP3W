@@ -42,7 +42,7 @@ This repository contains materials for a 3-week course designed to introduce hig
       - The curse of dimensionality.
       
       - Task 3:
-        - Fit a multiple regression model to a training set (we will consider three approaches).
+        - Fit a multiple regression model to a training set (we will consider various approaches).
         - Evaluate prediction accuracy in the training and testing set.
         - Report results.
 
