@@ -4,7 +4,6 @@
 ```r
  library(BGLR)
  library(glmnet)
-
  data(mice)
 ```
 
