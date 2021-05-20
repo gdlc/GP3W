@@ -1,4 +1,3 @@
-
 #### Libraries and loading the data (included in the BGLR R-package)
 
 ```r
