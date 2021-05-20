@@ -4,6 +4,9 @@
  library(BGLR)
  library(glmnet)
  data(mice)
+ dim(mice.X) # Genotypes
+ dim(mice.pheno) # Phenotypes
+ n=nrow(mice.pheno)
 ```
 
 #### Adjusting phenotypes by sex and other effects
@@ -16,7 +19,6 @@
 #### Centering the genotype matrix
 
 ```r
- n=nrow(mice.pheno)
  X=scale(mice.X,center=TRUE,scale=FALSE)
 ```
 
